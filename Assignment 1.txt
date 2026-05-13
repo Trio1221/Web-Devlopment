@@ -1,0 +1,19 @@
+Program Title : Create a Simple HTML Page Displaying Personal Details 
+Using Text Formatting Tags
+<!DOCTYPE html>
+<html>
+<head>
+<title>Personal Details</title>
+</head>
+<body>
+<h2><u>Personal Details</u></h2>
+<b>Name:</b> Yogiraj Bhosale <br><br>
+<b>Qualification:</b> <i> Under Graduate </i> <br><br>
+<b>College:</b> <u>SVPM COE Malegaon BK</u> <br><br>
+<b>Email:</b> yogirajbhosale1137@gmail.com<br><br>
+<b>Hobbies:</b> <i> Driving,Reading</i> <br><br>
+<b>Mathematics Formula:</b> a<sup>2</sup> + b<sup>2</sup> <br><br>
+<hr>
+<p><i>This page is created using basic HTML text formatting tags.</i></p>
+</body>
+</html>
